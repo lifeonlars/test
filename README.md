@@ -1,6 +1,6 @@
 # Test Repo
 
-Repository for testing, spikes and various experiments.
+Repository for testing, spikes and various experiments and course work.
 
 ## Learning resources and courses
 
